@@ -1,0 +1,24 @@
+*{
+  body{
+    //height:1500px;
+
+      div {
+        border: 10px solid black;
+        height:auto;
+        width: auto;
+        position:absolute;
+        display:inline-block;
+        top: 10%;
+        left: 40%;
+        margin: auto;
+
+        #img1 {
+          height:400px;
+          width:auto;
+          margin: auto;
+        }
+
+      }
+
+  }
+}
